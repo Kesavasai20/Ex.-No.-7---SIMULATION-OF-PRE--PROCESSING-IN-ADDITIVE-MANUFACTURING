@@ -44,7 +44,6 @@
 ![ex-7,3](https://github.com/Kesavasai20/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849303/90664b3d-2c7e-44eb-8a12-cc20095fdabf)
 ![ex-7,4](https://github.com/Kesavasai20/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849303/b638c430-124a-495c-b030-d109125517a9)
 
-## Output:
 
 ### Name:K Kesava sai
 ### Register Number:23002539
